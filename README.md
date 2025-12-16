@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shehab  
 
-**Founding Engineer at AreedNow**  
+**Founding Engineer at Areednow**  
 📍 London, UK  
 📧 shehab.hassani@areednow.com  
 ________________

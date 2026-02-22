@@ -16,7 +16,7 @@
 * 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built a Long Short-Term Memory model for sentiment analysis of food reviews.
 * ☢️ **[CoreClarity](https://github.com/AreedAdmin/CoreClarity)** — Nuclear Reactor Failure ML Prediction System.
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System using historical data.
-* 💳 **[DefaultDetect](https://github.com/AreedAdmin/DefaultDetect)** — Full Stack Loan Default Risk ML Prediction System.
+* 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
 
 ---
 

@@ -13,6 +13,7 @@
 
 * 🛒 **[areednow-delivers](https://areednow.com)** — Online retail platform delivering at scale.
 * 🏗️ **areednow-core-erp** — (Private) Areednow's internal Enterprise Resource Planning system.
+* 📊 **areednow-analytics** — (Private) All things analytics at Areednow.
 * 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
 * ☢️ **[CoreClarity](https://github.com/AreedAdmin/claud-code-hackathon)** — Nuclear Reactor Failure ML Prediction System.
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System using historical data.

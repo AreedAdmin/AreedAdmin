@@ -18,7 +18,7 @@
 * ☢️ **[CoreClarity](https://github.com/AreedAdmin/claud-code-hackathon)** — Nuclear Reactor Failure ML Prediction System.
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System using historical data.
 * 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
-
+* 👋 **[ASLer](https://github.com/AreedAdmin/Sign-language-interprator.git)** - American Sign Language Interpreter: Sign -> Text -> Voice Model
 ---
 
 

@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Shehab
+# 👋 Hi, It's Shehab
 
 📍 London, UK | 🏗️ **Founding Engineer at Areednow** | 📧 [shehab.hassani@areednow.com](mailto:shehab.hassani@areednow.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC5?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC5?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 
 ---
 
-> Currently working on AI-driven retail analytics and Last Mile Route Optimisation. 
-> Passionate about building end-to-end data pipelines, ML Models, and solving complex optimisation problems.
+> Currently working on TSP Route optimisation and Contextual MAB for dynamic promotion offering in Retail.
 
 ## Current Projects
 
@@ -18,7 +17,8 @@
 * ☢️ **[CoreClarity](https://github.com/AreedAdmin/claud-code-hackathon)** — Nuclear Reactor Failure ML Prediction System.
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System using historical data.
 * 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
-* 👋 **[ASLer](https://github.com/AreedAdmin/Sign-language-interprator.git)** - American Sign Language Interpreter: Sign -> Text -> Voice Model
+* 👋 **[ASLer](https://github.com/AreedAdmin/Sign-language-interprator.git)** - American Sign Language Interpreter: Sign -> Text -> Voice Model.
+* 🚚 **fleet-optimization** - (Private) Order allocation & TSP route optimization for logistics fleet.
 ---
 
 

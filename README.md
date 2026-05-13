@@ -15,10 +15,11 @@
 * 📊 **areednow-analytics** — (Private) All things analytics at Areednow.
 * 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
 * ☢️ **[CoreClarity](https://github.com/AreedAdmin/claud-code-hackathon)** — Nuclear Reactor Failure ML Prediction System.
-* ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System using historical data.
+* ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System Using Historical Data.
 * 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
 * 👋 **[ASLer](https://github.com/AreedAdmin/Sign-language-interprator.git)** - American Sign Language Interpreter: Sign -> Text -> Voice Model.
-* 🚚 **fleet-optimization** - (Private) Order allocation & TSP route optimization for logistics fleet.
+* 🚚 **fleet-optimization** - (Private) Order Allocation & TSP Route Optimization For Logistics Fleet.
+* 🌱 **Agro** - (Private) Crop Disease Prevention & Detection System.
 ---
 
 

@@ -8,7 +8,7 @@
 
 ---
 
-> Currently working on TSP Route optimisation and Contextual MAB for dynamic promotion offering in Retail.
+> Currently working on CVRP Optimisation and Contextual MAB for dynamic promotion offering in Retail.
 
 ## Current Projects
 

@@ -10,10 +10,6 @@
 
 > Currently working on CVRP Optimisation and Contextual MAB for dynamic promotion offering in Retail.
 
-## GitHub Stats
-
-![AreedAdmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreedAdmin&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreedAdmin&layout=compact&theme=radical)
-
 ---
 
 ## Current Projects

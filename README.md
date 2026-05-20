@@ -2,13 +2,19 @@
 
 📍 London, UK | 🏗️ **Founding Engineer at Areednow** | 📧 [shehab.hassani@areednow.com](mailto:shehab.hassani@areednow.com)
 
-![GitHub Stars](https://img.shields.io/github/stars/AreedAdmin?style=for-the-badge&logo=github&logoColor=white&color=181717)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehab-hassani) ![GitHub Stars](https://img.shields.io/github/stars/AreedAdmin?style=for-the-badge&logo=github&logoColor=white&color=181717)
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AF7B00?style=for-the-badge&logo=huggingface&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC5?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
-> Currently working on TSP Route optimisation and Contextual MAB for dynamic promotion offering in Retail.
+> Currently working on CVRP Optimisation and Contextual MAB for dynamic promotion offering in Retail.
+
+## GitHub Stats
+
+![AreedAdmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreedAdmin&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreedAdmin&layout=compact&theme=radical)
+
+---
 
 ## Current Projects
 
@@ -22,7 +28,5 @@
 * 👋 **[ASLer](https://github.com/AreedAdmin/Sign-language-interprator.git)** - American Sign Language Interpreter: Sign -> Text -> Voice Model.
 * 🚚 **fleet-optimization** - (Private) Order Allocation & TSP Route Optimization For Logistics Fleet.
 * 🌱 **Agro** - (Private) Crop Disease Prevention & Detection System.
+
 ---
-
-
-

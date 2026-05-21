@@ -23,4 +23,6 @@
 * 🚚 **fleet-optimization** - (Private) Order Allocation & TSP Route Optimization For Logistics Fleet.
 * 🌱 **Agro** - (Private) Crop Disease Prevention & Detection System.
 
+## Github Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/AreedAdmin)
 ---

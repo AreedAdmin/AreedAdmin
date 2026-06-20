@@ -8,20 +8,30 @@
 
 ---
 
-> Currently working on CVRP Optimisation and Contextual MAB for dynamic promotion offering in Retail.
+> Currently working on Contextual MAB for dynamic promotion offering in Retail.
 
-## Current Projects
+## Projects
 
+<u>**FMCG & Food-Tech**</u>
 * 🛒 **[areednow-delivers](https://areednow.com)** — Online retail platform delivering at scale.
 * 🏗️ **areednow-core-erp** — (Private) Areednow's internal Enterprise Resource Planning system.
 * 📊 **areednow-analytics** — (Private) All things analytics at Areednow.
-* 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
-* ☢️ **[CoreClarity](https://github.com/AreedAdmin/claud-code-hackathon)** — Nuclear Reactor Failure ML Prediction System.
-* ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System Using Historical Data.
-* 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
-* 👋 **[ASLer](https://github.com/AreedAdmin/Sign-language-interprator.git)** - American Sign Language Interpreter: Sign -> Text -> Voice Model.
-* 🚚 **fleet-optimization** - (Private) Order Allocation & TSP Route Optimization For Logistics Fleet.
+
 * 🌱 **Agro** - (Private) Crop Disease Prevention & Detection System.
+
+<u>**Generative AI**</u>
+* 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
+* 🕸️ **GenUI](https://github.com/AreedAdmin/google-genui.git)** — Generative UI and Agentic Layer for producing planned coding features visually with DAGs.
+* 
+<u>**Sports Analytics**</u>
+* ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System Using Historical Data.
+
+<u>**Logistics & Supply Chain**</u>
+* 🚚 **fleet-optimization** — (Private) Order Allocation & TSP Route Optimization For Logistics Fleet.
+
+<u>**Finance**</u>
+* 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
+* 🏛️ **[GIX](https://github.com/AreedAdmin/GIX-GPU-Inference-Exchange.git)** — Decentralized spot market exchange for GPU compute & inference.
 
 ## Github Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AreedAdmin)

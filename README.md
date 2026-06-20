@@ -21,7 +21,7 @@
 
 <u>**Generative AI**</u>
 * 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
-* 🕸️ **GenUI](https://github.com/AreedAdmin/google-genui.git)** — Generative UI and Agentic Layer for producing planned coding features visually with DAGs.
+* 🕸️ **[GenUI](https://github.com/AreedAdmin/google-genui.git)** — Generative UI and Agentic Layer for producing planned coding features visually with DAGs.
 * 
 <u>**Sports Analytics**</u>
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System Using Historical Data.

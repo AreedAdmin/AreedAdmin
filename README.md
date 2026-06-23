@@ -36,7 +36,5 @@
 ## Github Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AreedAdmin)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreedAdmin&show_icons=true&commits_year=2026&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AreedAdmin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---

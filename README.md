@@ -1,6 +1,6 @@
 # 👋 Hi, It's Shehab
 
-📍 London, UK | 🏗️ **Founding Engineer at Areednow** | 📧 [shehab.hassani@areednow.com](mailto:shehab.hassani@areednow.com)
+📍 London, UK | 🏗️ **Founding Engineer at Areednow** | 📧 [shehab@areednow.com](mailto:shehab@areednow.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehab-hassani) ![GitHub Stars](https://img.shields.io/github/stars/AreedAdmin?style=for-the-badge&color=FFD700&label=Stars%20⭐&logo=github&logoColor=black)
 

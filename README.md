@@ -14,8 +14,11 @@
 
 <u>**FMCG & Food-Tech**</u>
 * 🛒 **[Areednow](https://areednow.com)** — Online retail platform delivering at scale.
-* 🏗️ **areednow-core-erp** — (Private) Areednow's internal Enterprise Resource Planning system.
-* 📊 **areednow-analytics** — (Private) All things analytics at Areednow.
+* ⚙️ **@areednow/admin** — (Private) Back-office console for catalog, merchandising, procurement, inventory, finance, staff & POS.
+* 📦 **@areednow/warehouse** — (Private) Handheld scanner app running receive → put away → pick → pack → dispatch.
+* 🎧 **@areednow/support** — (Private) Customer service desk for tickets, refunds, returns, wallet credits & bug triage.
+* 📊 **@areednow/analytics** — (Private) Executive reporting on GMV, retention, fulfilment SLA, payment mix & funnels.
+* 🎯 **areednow-discounts-rl** — (Private) RL algorithm for discount selection, depth decisions and a pricing optimisation engine.
 
 * 🌱 **Agro** - (Private) Crop Disease Prevention & Detection System.
 

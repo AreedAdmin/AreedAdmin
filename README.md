@@ -13,7 +13,7 @@
 ## Projects
 
 <u>**FMCG & Food-Tech**</u>
-* 🛒 **[areednow-delivers](https://areednow.com)** — Online retail platform delivering at scale.
+* 🛒 **[Areednow](https://areednow.com)** — Online retail platform delivering at scale.
 * 🏗️ **areednow-core-erp** — (Private) Areednow's internal Enterprise Resource Planning system.
 * 📊 **areednow-analytics** — (Private) All things analytics at Areednow.
 
@@ -22,6 +22,9 @@
 <u>**Generative AI**</u>
 * 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
 * 🕸️ **[GenUI](https://github.com/AreedAdmin/google-genui.git)** — Generative UI and Agentic Layer for producing planned coding features visually with DAGs.
+
+<u>**Health Analytics**</u>
+* ⚽ **[apple-watch-metrics](https://github.com/AreedAdmin/apple-watch-metrics.git)** — API, Data, Analytics Layers for my Apple watch and medical health data.
   
 <u>**Sports Analytics**</u>
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System Using Historical Data.

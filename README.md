@@ -16,7 +16,7 @@
 * 📦 **@areednow/warehouse** — (Private) Handheld app for warehouse floor operations.
 * 🎧 **@areednow/support** — (Private) Customer service desk for resolving customer issues.
 * 📊 **@areednow/analytics** — (Private) Internal reporting & business intelligence console.
-* 🎯 **areednow-discounts-rl** — (Private) Reinforcement learning for retail promotion decisions.
+* 🎯 **areednow-discounts-rl** — (Private) Reinforcement learning for retail promotion decisions and optimal pricing engine.
 
 * 🌱 **Agro** - (Private) Crop Disease Prevention & Detection System.
 

@@ -23,6 +23,7 @@
 <u>**Generative AI**</u>
 * 🧠 **[LSTM](https://github.com/AreedAdmin/LSTM)** — Built BPE tokeniser, trigram model, LSTM text generator, and CNN discriminator to generate & classify real vs. fake reviews.
 * 🕸️ **[GenUI](https://github.com/AreedAdmin/google-genui.git)** — Generative UI and Agentic Layer for producing planned coding features visually with DAGs.
+* 🥋 **[JJRag]** - RAG enabled language models for multi-organization (AJP,IBJJF,ADCC) rule book inferencing.
 
 <u>**Health Analytics**</u>
 * 📊 **[apple-watch-metrics](https://github.com/AreedAdmin/apple-watch-metrics.git)** — API, Data, Analytics Layers for my Apple watch and medical health data.

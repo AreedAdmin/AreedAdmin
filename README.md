@@ -31,7 +31,7 @@
 * ⚽ **[football-match-pred](https://github.com/AreedAdmin/football-match-pred)** — EPL Match ML Prediction System Using Historical Data.
 
 <u>**Logistics & Supply Chain**</u>
-* 🚚 **fleet-optimization** — (Private) Order Allocation & TSP Route Optimization For Logistics Fleet.
+* 🚚 **fleet-optimization** — (Private) Order Allocation & CVRP Route Optimization For Logistics Fleet.
 
 <u>**Finance**</u>
 * 💳 **[DefaultDetect](https://github.com/AreedAdmin/defaultdetect-bloomberg-auth)** — Full Stack Loan Default Risk ML Prediction System.
